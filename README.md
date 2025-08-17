@@ -1,50 +1,38 @@
-<h1 align="center">Hi 👋, I'm Ashwani Kumar</h1>
-<h3 align="center">CSE Student | Passionate about AI, IoT & Full-Stack Development 🚀</h3>
+# 💫 About Me:
+Hand Gesture Controlled Robotic Arm (Arduino + Sensors + Bluetooth)<br>Open Source AI, IoT & Automation Projects<br>Advanced Machine Learning & Signal Processing<br>Java, React, and AI/ML Algorithms<br>C, Java, Data Structures & Algorithms, Arduino/IoT Projects<br>I can survive with coffee and WiFi only  
 
-<img align="right" alt="Coding" width="400" src="https://raw.githubusercontent.com/rajpratyush/rajpratyush/master/me_1.gif">
+## 🌐 Socials:
+[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/ashwani89693) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ashwani-kumar-50203a33b) 
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/AnxiousCraft4649) 
+[![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ashwani89693) 
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashwani89693@gmail.com)  
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ashwani_kr8969)  
 
-- 🔭 I’m currently working on **IoT + AI Projects (Robotic Arm, Disaster Relief System, etc.)**  
-- 🌱 I’m currently learning **Java, React, and Cloud Computing**  
-- 👯 I’m looking to collaborate on **Open Source + Hackathon Projects**  
-- 💬 Ask me about **C, Java, IoT, Arduino, and Full Stack Development**  
-- 📫 Reach me at: **ashwani9931@gmail.com**  
-- ⚡ Fun fact: **I debug faster at midnight 🌙**  
+# 💻 Tech Stack:
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) 
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) 
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) 
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)  
 
----
-
-## 🛠️ Tech Stack
-<p align="center"> 
-  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/> 
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/> 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/> 
-  <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/> 
-</p>
-
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashwani9931&show_icons=true&theme=tokyonight" alt="stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ashwani9931&theme=radical" alt="streak" />
-</p>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=ashwani_kr8969&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>  
+![](https://nirzak-streak-stats.vercel.app/?user=ashwani_kr8969&theme=dark&hide_border=false)<br/>  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ashwani_kr8969&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)  
 
 ---
+[![](https://visitcount.itsvg.in/api?id=ashwani_kr8969&icon=0&color=0)](https://visitcount.itsvg.in)  
 
-## 🌐 Connect with me
-<p align="center">
-<a href="https://linkedin.com/in/ashwani" target="blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/badge/Twitter-%231DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/></a>
-<a href="https://instagram.com/" target="blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
-</p>
-
----
-
-⭐ From [Ashwani Kumar](https://github.com/ashwani9931)
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
